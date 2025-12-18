@@ -2,7 +2,8 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Qiskit](https://img.shields.io/badge/Qiskit-Framework-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)](https://qiskit.org/)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+[![GPU Acceleration](https://img.shields.io/badge/GPU-Accelerated-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://qiskit.org/ecosystem/aer/)
+[![License](https://img.shields.io/badge/License-MIT-red?style=for-the-badge)](LICENSE)
 
 ---
 
