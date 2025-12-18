@@ -1,5 +1,11 @@
 # Hybrid Quantum–Classical QAOA Evaluation Framework with Multi‑Optimizer GUI
 
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Qiskit](https://img.shields.io/badge/Qiskit-Framework-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)](https://qiskit.org/)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+
+---
+
 ## 📌 Overview
 This repository presents a **comprehensive evaluation framework** for the **Quantum Approximate Optimization Algorithm (QAOA)**, implemented entirely in **Qiskit** for the quantum path and integrated with a wide range of classical optimizers. The framework supports **GPU‑accelerated simulation**, **multi‑optimizer benchmarking**, and **interactive GUIs (Tkinter, Jupyter widgets)** for comparative analysis.
 
