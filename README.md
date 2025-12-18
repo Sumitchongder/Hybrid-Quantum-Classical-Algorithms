@@ -38,8 +38,10 @@ This project addresses these challenges by:
 - **Interactive GUIs:**
   - **Jupyter widgets**: toggle optimizers, sliders for depth/runs, live plots.
   - **Tkinter desktop GUI**: checkboxes for optimizers, sliders, dropdowns, and comparison plots.
-  
-  <img width="801" height="1362" alt="Image" src="https://github.com/user-attachments/assets/e5524b89-8f48-4cb5-ab88-a719b2ec8532" />
+
+<p align="center">
+  <img width="300" height="600" alt="Image" src="https://github.com/user-attachments/assets/e5524b89-8f48-4cb5-ab88-a719b2ec8532" />
+</p>
 
 - **Artifacts:**
   - JSON outputs for reproducibility.
@@ -62,7 +64,9 @@ This project addresses these challenges by:
 
 The framework is designed as a **layered hybrid system**, ensuring clarity, reproducibility, and extensibility:
 
-<img width="1175" height="769" alt="Image" src="https://github.com/user-attachments/assets/1298d725-207e-48c8-9f95-2a43879d34dc" />
+<p align="center">
+  <img width="700" height="500" alt="Image" src="https://github.com/user-attachments/assets/1298d725-207e-48c8-9f95-2a43879d34dc" />
+</p>
 
 1. **Quantum Layer (Qiskit)**
    - Constructs QAOA circuits for MAX‑CUT on regular graphs.
